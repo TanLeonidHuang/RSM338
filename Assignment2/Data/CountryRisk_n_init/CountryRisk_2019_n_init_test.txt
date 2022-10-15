@@ -1,0 +1,201 @@
+200:
+                          Country Abbrev  Label
+60                        Lebanon     LB      0
+30                        Ecuador     EC      0
+48                           Iran     IR      0
+61                        Liberia     LR      0
+69                         Mexico     MX      0
+77                      Nicaragua     NI      0
+78                        Nigeria     NG      0
+81                       Pakistan     PK      0
+83                       Paraguay     PY      0
+90                         Russia     RU      0
+92                   Saudi Arabia     SA      0
+99                   South Africa     ZA      0
+108           Trinidad and Tobago     TT      0
+110                        Turkey     TR      0
+112                       Ukraine     UA      0
+118                         Yemen     YE      0
+27   Democratic Republic of Congo     CD      0
+19                           Chad     TD      0
+120                      Zimbabwe     ZW      0
+16                        Burundi     BI      0
+2                       Argentina     AR      0
+14                         Brazil     BR      0
+
+100:
+                          Country Abbrev  Label
+60                        Lebanon     LB      0
+30                        Ecuador     EC      0
+48                           Iran     IR      0
+61                        Liberia     LR      0
+69                         Mexico     MX      0
+77                      Nicaragua     NI      0
+78                        Nigeria     NG      0
+81                       Pakistan     PK      0
+83                       Paraguay     PY      0
+90                         Russia     RU      0
+92                   Saudi Arabia     SA      0
+99                   South Africa     ZA      0
+108           Trinidad and Tobago     TT      0
+110                        Turkey     TR      0
+112                       Ukraine     UA      0
+118                         Yemen     YE      0
+27   Democratic Republic of Congo     CD      0
+19                           Chad     TD      0
+120                      Zimbabwe     ZW      0
+16                        Burundi     BI      0
+2                       Argentina     AR      0
+14                         Brazil     BR      0
+
+50:
+                          Country Abbrev  Label
+60                        Lebanon     LB      0
+30                        Ecuador     EC      0
+48                           Iran     IR      0
+61                        Liberia     LR      0
+69                         Mexico     MX      0
+77                      Nicaragua     NI      0
+78                        Nigeria     NG      0
+81                       Pakistan     PK      0
+83                       Paraguay     PY      0
+90                         Russia     RU      0
+92                   Saudi Arabia     SA      0
+99                   South Africa     ZA      0
+108           Trinidad and Tobago     TT      0
+110                        Turkey     TR      0
+112                       Ukraine     UA      0
+118                         Yemen     YE      0
+27   Democratic Republic of Congo     CD      0
+19                           Chad     TD      0
+120                      Zimbabwe     ZW      0
+16                        Burundi     BI      0
+2                       Argentina     AR      0
+14                         Brazil     BR      0
+
+20:
+                          Country Abbrev  Label
+60                        Lebanon     LB      0
+30                        Ecuador     EC      0
+48                           Iran     IR      0
+61                        Liberia     LR      0
+69                         Mexico     MX      0
+77                      Nicaragua     NI      0
+78                        Nigeria     NG      0
+81                       Pakistan     PK      0
+83                       Paraguay     PY      0
+90                         Russia     RU      0
+92                   Saudi Arabia     SA      0
+99                   South Africa     ZA      0
+108           Trinidad and Tobago     TT      0
+110                        Turkey     TR      0
+112                       Ukraine     UA      0
+118                         Yemen     YE      0
+27   Democratic Republic of Congo     CD      0
+19                           Chad     TD      0
+120                      Zimbabwe     ZW      0
+16                        Burundi     BI      0
+2                       Argentina     AR      0
+14                         Brazil     BR      0
+
+10:
+                          Country Abbrev  Label
+0                         Albania     AL      0
+63                     Madagascar     MG      0
+31                          Egypt     EG      0
+32                    El Salvador     SV      0
+84                           Peru     PE      0
+34                       Ethiopia     ET      0
+82                         Panama     PA      0
+37                          Gabon     GA      0
+38                        Georgia     GE      0
+40                          Ghana     GH      0
+41                         Greece     GR      0
+42                      Guatemala     GT      0
+29             Dominican Republic     DO      0
+43                       Honduras     HN      0
+47                      Indonesia     ID      0
+74                          Nepal     NP      0
+73                     Mozambique     MZ      0
+72                        Morocco     MA      0
+71                     Montenegro     ME      0
+70                        Moldova     FM      0
+67                     Mauritania     MR      0
+55                     Kazakhstan     KZ      0
+56                          Kenya     KE      0
+66                           Mali     ML      0
+64                         Malawi     MW      0
+46                          India     IN      0
+91                         Rwanda     RW      0
+85                    Philippines     PH      0
+119                        Zambia     ZM      0
+109                       Tunisia     TN      0
+10                          Benin     BJ      0
+11                        Bolivia     BO      0
+12         Bosnia and Herzegovina     BA      0
+117                       Vietnam     VI      0
+107          The FYR of Macedonia     MK      0
+15                       Bulgaria     BG      0
+106                      Thailand     TH      0
+8                      Bangladesh     BD      0
+3                         Armenia     AM      0
+105                      Tanzania     TZ      0
+101                     Sri Lanka     LK      0
+1                         Algeria     DZ      0
+21                          China     CN      0
+95                   Sierra Leone     SL      0
+94                         Serbia     RS      0
+24                        Croatia     HR      0
+93                        Senegal     SN      0
+17                       Cameroon     CM      0
+111                        Uganda     UG      0
+
+2:
+                          Country Abbrev  Label
+0                         Albania     AL      0
+119                        Zambia     ZM      0
+31                          Egypt     EG      0
+32                    El Salvador     SV      0
+34                       Ethiopia     ET      0
+37                          Gabon     GA      0
+38                        Georgia     GE      0
+40                          Ghana     GH      0
+41                         Greece     GR      0
+42                      Guatemala     GT      0
+43                       Honduras     HN      0
+74                          Nepal     NP      0
+29             Dominican Republic     DO      0
+105                      Tanzania     TZ      0
+47                      Indonesia     ID      0
+72                        Morocco     MA      0
+71                     Montenegro     ME      0
+70                        Moldova     FM      0
+106                      Thailand     TH      0
+67                     Mauritania     MR      0
+66                           Mali     ML      0
+55                     Kazakhstan     KZ      0
+56                          Kenya     KE      0
+64                         Malawi     MW      0
+63                     Madagascar     MG      0
+46                          India     IN      0
+111                        Uganda     UG      0
+107          The FYR of Macedonia     MK      0
+95                   Sierra Leone     SL      0
+10                          Benin     BJ      0
+11                        Bolivia     BO      0
+12         Bosnia and Herzegovina     BA      0
+93                        Senegal     SN      0
+15                       Bulgaria     BG      0
+117                       Vietnam     VI      0
+17                       Cameroon     CM      0
+94                         Serbia     RS      0
+91                         Rwanda     RW      0
+8                      Bangladesh     BD      0
+85                    Philippines     PH      0
+21                          China     CN      0
+1                         Algeria     DZ      0
+84                           Peru     PE      0
+101                     Sri Lanka     LK      0
+24                        Croatia     HR      0
+82                         Panama     PA      0
+3                         Armenia     AM      0
