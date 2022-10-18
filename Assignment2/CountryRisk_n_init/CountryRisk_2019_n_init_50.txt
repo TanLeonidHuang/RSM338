@@ -1,0 +1,23 @@
+                          Country Abbrev  Label
+60                        Lebanon     LB      0
+30                        Ecuador     EC      0
+48                           Iran     IR      0
+61                        Liberia     LR      0
+69                         Mexico     MX      0
+77                      Nicaragua     NI      0
+78                        Nigeria     NG      0
+81                       Pakistan     PK      0
+83                       Paraguay     PY      0
+90                         Russia     RU      0
+92                   Saudi Arabia     SA      0
+99                   South Africa     ZA      0
+108           Trinidad and Tobago     TT      0
+110                        Turkey     TR      0
+112                       Ukraine     UA      0
+118                         Yemen     YE      0
+27   Democratic Republic of Congo     CD      0
+19                           Chad     TD      0
+120                      Zimbabwe     ZW      0
+14                         Brazil     BR      0
+16                        Burundi     BI      0
+2                       Argentina     AR      0

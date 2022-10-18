@@ -1,0 +1,4 @@
+77                      Nicaragua     NI      2
+48                           Iran     IR      2
+2                       Argentina     AR      2
+120                      Zimbabwe     ZW      2

@@ -1,0 +1,14 @@
+110                        Turkey     TR      2
+112                       Ukraine     UA      2
+118                         Yemen     YE      2
+60                        Lebanon     LB      2
+81                       Pakistan     PK      2
+78                        Nigeria     NG      2
+77                      Nicaragua     NI      2
+69                         Mexico     MX      2
+48                           Iran     IR      2
+27   Democratic Republic of Congo     CD      2
+19                           Chad     TD      2
+16                        Burundi     BI      2
+90                         Russia     RU      2
+120                      Zimbabwe     ZW      2
